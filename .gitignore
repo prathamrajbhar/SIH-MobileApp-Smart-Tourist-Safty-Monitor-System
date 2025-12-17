@@ -1,0 +1,7 @@
+.env
+.env.example
+.github
+AppIcons/
+Pods/
+build/
+DerivedData/
